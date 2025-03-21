@@ -34,6 +34,10 @@ Recipe Explorer is a **responsive web-based application** that allows users to *
 ✅ **Optimized User Experience:**  
    - Clickable **close button** to dismiss the recipe details popup.  
    - **Smooth scrolling & scrollbar customization** for better readability.
-   - ![Screenshot 2025-03-21 210932](https://github.com/user-attachments/assets/23f45c0c-c265-40bd-b65c-b1e76651075f)![Screenshot 2025-03-21 210932](https://github.com/user-attachments/assets/dfa0683d-8688-49f8-a0c4-62aef9966446)
+   - ![Screenshot 2025-03-21 210932](https://github.com/user-attachments/assets/23f45c0c-c265-40bd-b65c-b1e76651075f)
+   - ![Screenshot 2025-03-21 211011](https://github.com/user-attachments/assets/32f7c4c1-cfb6-47d6-a5fb-31304b105cbb)
+   - ![Screenshot 2025-03-21 211121](https://github.com/user-attachments/assets/218c0444-d096-462b-b5c6-2360e929c768)
+
+
 
 
